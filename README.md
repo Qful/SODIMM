@@ -1,0 +1,2 @@
+# SODIMM
+SODIMM接口板
